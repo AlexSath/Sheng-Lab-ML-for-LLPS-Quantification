@@ -1,5 +1,5 @@
 ## Inception-based Unet for Segmentation of Liquid-Liquid Phase Separation (LLPS) Phenotypes
-<img src="https://raw.githubusercontent.com/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification/refs/heads/main/images/method_comparison_inset.png" width="250" title="iUnetSeg" alt="iUnetSeg" align="right" vspace="50">
+<img src="https://raw.githubusercontent.com/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification/refs/heads/main/images/method_comparison_inset.png?token=GHSAT0AAAAAAC6DSZACDEYCT324IKX3QYJUZ5PU2NQ" width="250" title="iUnetSeg" alt="iUnetSeg" align="right" vspace="50">
 
 [![Downloads](https://img.shields.io/github/downloads/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification/total)](https://github.com/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification/releases/)
 [![Licence: CC0](https://img.shields.io/github/license/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification)](https://github.com/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification/blob/master/LICENSE)
