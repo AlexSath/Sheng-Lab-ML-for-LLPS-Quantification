@@ -1,5 +1,8 @@
-## Inception-based Unet for Segmentation of Liquid-Liquid Phase Separation (LLPS) Phenotypes
 <img src="https://raw.githubusercontent.com/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification/refs/heads/main/images/method_comparison_inset.png?token=GHSAT0AAAAAAC6DSZACDEYCT324IKX3QYJUZ5PU2NQ" width="250" title="iUnetSeg" alt="iUnetSeg" align="right" vspace="50">
+
+## Inception-based Unet for Segmentation of Liquid-Liquid Phase Separation (LLPS) Phenotypes
+
+### Built by Alexandre R. Sathler for Dr. Zuhang Sheng's lab at NIH.
 
 [![Downloads](https://img.shields.io/github/downloads/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification/total)](https://github.com/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification/releases/)
 [![Licence: CC0](https://img.shields.io/github/license/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification)](https://github.com/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification/blob/master/LICENSE)
@@ -7,4 +10,3 @@
 [![GitHub stars](https://img.shields.io/github/stars/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification?style=social)](https://github.com/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification/FrancoLaboratory/ProDiVis/)
 [![GitHub forks](https://img.shields.io/github/forks/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification?style=social)](https://github.com/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification/)
 
-### Built by Alexandre R. Sathler for Dr. Zuhang Sheng's lab at NIH.
