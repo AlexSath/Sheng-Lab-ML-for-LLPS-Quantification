@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sathler"
+  given-names: "Alexandre"
+  orcid: "https://orcid.org/0000-0002-6800-1208"
+title: "Sheng-Lab-ML-for-LLPS-Quantification"
+version: 1.0.0
+doi: 10.5281/zenodo.23003851
+date-released: 2026-09-27
+url: "https://github.com/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification"
