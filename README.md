@@ -2,6 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification/refs/heads/main/images/method_comparison_inset.png" width="400" title="iUnetSeg" alt="iUnetSeg" align="right" vspace="50">
 
+[![DOI](https://zenodo.org/badge/932941950.svg)](https://doi.org/10.5281/zenodo.23003850)
 ![Downloads](https://img.shields.io/github/downloads/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification/total)
 ![License: CC0](https://img.shields.io/github/license/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification)
 ![repo size](https://img.shields.io/github/repo-size/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification)
