@@ -10,3 +10,5 @@
 ![GitHub forks](https://img.shields.io/github/forks/AlexSath/Sheng-Lab-ML-for-LLPS-Quantification?style=social)
 
 Built by Alexandre R. Sathler for Dr. Zuhang Sheng's lab at NIH. Borrows from proof-of-concept and [code](https://github.com/tpecot/NucleiSegmentationAndMarkerIDentification) by Dr. Thierry Pécot
+
+Now published in [Neuron](doi.org/10.1016/j.neuron.2026.10.003) (Fig S3).
